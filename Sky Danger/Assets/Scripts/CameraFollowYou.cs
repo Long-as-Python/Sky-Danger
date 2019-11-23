@@ -8,7 +8,7 @@ public class CameraFollowYou : MonoBehaviour
 
     public Vector3 cameraOffset;
 
-    [Range(0.01f,1.0f)]
+    [Range(0.01f, 1.0f)]
     public float Smoothness;
     void Start()
     {
