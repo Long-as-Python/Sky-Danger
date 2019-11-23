@@ -8,4 +8,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/tar.unity
     guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/ForestPlanet.unity
+    guid: e0a18ef45308f2941a51ddc92d9fdd19
   m_configObjects: {}
