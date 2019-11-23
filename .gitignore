@@ -35,3 +35,5 @@ sysinfo.txt
 *.apk
 *.unitypackage
 *.meta
+Sky Danger/Assets/scripts.meta
+Sky Danger/Assets/Scenes/SampleScene.unity.meta
