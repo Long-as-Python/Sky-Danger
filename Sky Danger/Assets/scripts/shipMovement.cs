@@ -5,7 +5,7 @@ using UnityEngine;
 public class shipMovement : MonoBehaviour
 {
     public CharacterController controller;
-
+    
     public float speed = 12f;
 
     // Update is called once per frame
