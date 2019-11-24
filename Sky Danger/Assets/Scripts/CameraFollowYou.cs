@@ -19,6 +19,8 @@ public class CameraFollowYou : MonoBehaviour
     {
         Vector3 newVec3 = PlayerTransform.position + cameraOffset;
 
+        transform.rotation = Quaternion.Euler(25, 0, 0);
+
         transform.position = Vector3.Slerp(transform.position, newVec3, Smoothness);
     }
 }
